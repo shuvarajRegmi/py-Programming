@@ -1,0 +1,6 @@
+name=input("enter your name:")
+age=input("enter age:")
+marks=input("enter marks:")
+print("whecome",name)
+print("age=",age)
+print("marks",marks)
